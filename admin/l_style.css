@@ -1,0 +1,23 @@
+body{
+    background-color:white;
+}
+table{
+        margin:180 400;
+        color:black;
+        border:0px;
+        background-color:tomato;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: larger;
+    }
+    table th{
+        background-color:tomato;
+        align:left;   
+        font-size:30px;
+    }
+    input[type="submit"],input[type="reset"] {
+        width:70px;
+        margin:0 25;
+        background-color:white;
+    }
+
+

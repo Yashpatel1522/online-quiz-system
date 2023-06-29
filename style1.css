@@ -1,0 +1,36 @@
+.container{
+    
+   margin:40px;
+   padding: 100px 600px;
+  
+   
+
+}
+
+body
+{
+  background-color:white;
+  background-size:cover ;
+  background-position:center ;
+  font-family:sans-serif;
+  color:black;
+  
+
+}
+input[type=text],input[type=password]
+{
+  padding: 5px 0px 0px 50px;
+  
+}
+input[type=text]:focus,input[type=password]:focus
+{
+  background-color: tomato;
+}
+input[type=submit]:hover{
+  
+ background-color: tomato;
+ 
+}
+
+
+				
