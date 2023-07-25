@@ -5,7 +5,7 @@
 <body>
     <div id="footer">
         <p>Devloped by<br> 
-            <br>Mital pithadiya & Priyanka jakhotra</p>
+            <br>Yash Vachhani</p>
 </div>
 </body>
 <html>
